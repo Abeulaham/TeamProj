@@ -7,6 +7,7 @@
 <title>Index.jsp</title>
 </head>
 <body>
-
+<h1> 깃 사용법</h1>
+<p>git 사용법입니다</p>
 </body>
 </html>
